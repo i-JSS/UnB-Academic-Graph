@@ -7,9 +7,6 @@
 [![NetworkX](https://img.shields.io/badge/NetworkX-013243?style=for-the-badge&logo=python&logoColor=white)](https://networkx.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/i-JSS/UnB-Academic-Graph?style=flat-square)](https://github.com/i-JSS/UnB-Academic-Graph/commits/main)
-[![GitHub repo size](https://img.shields.io/github/repo-size/i-JSS/UnB-Academic-Graph?style=flat-square)](https://github.com/i-JSS/UnB-Academic-Graph)
-
 Grafo de **pré-requisitos, co-requisitos e equivalências** de todas as disciplinas da UnB, com busca em largura (BFS) para encontrar o **menor caminho** até a conclusão de qualquer matéria.
 
 [Ver Apresentação](https://www.youtube.com/watch?v=0t8uElQ3kTg) · [Reportar Bug](https://github.com/i-JSS/UnB-Academic-Graph/issues)
