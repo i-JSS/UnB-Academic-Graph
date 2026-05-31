@@ -18,10 +18,23 @@ Grafo de **pré-requisitos, co-requisitos e equivalências** de todas as discipl
 
 ## Screenshots
 
-| Grafo no Neo4j | Realizando a busca | Menor caminho plotado |
-|---|---|---|
-| <img src="https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1_UnB/refs/heads/main/Images/grafoperto.jpg" width="220"/> | <img src="https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1_UnB/refs/heads/main/Images/busca.png" width="220"/> | <img src="https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1_UnB/refs/heads/main/Images/grafo.png" width="220"/> |
+<div align="center"><img src= "https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1_UnB/refs/heads/main/Images/grafoperto.jpg?raw=true"/></div>
 
+<center>
+Figura 1 - Grafo no Neo4j
+</center>
+
+<div align="center"><img src= "https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1_UnB/refs/heads/main/Images/busca.png?raw=true"/></div>
+
+<center>
+Figura 2 - Realizando a busca
+</center>
+
+<div align="center"><img src= "https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1_UnB/refs/heads/main/Images/grafo.png?raw=true"/></div>
+
+<center>
+Figura 3 - Grafo plotado do menor caminho possível
+</center>
 
 ---
 
